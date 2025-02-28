@@ -1,0 +1,6 @@
+export { default as OverlockBlack } from "./Overlock-Black.ttf"
+export { default as OverlockBlackItalic } from "./Overlock-BlackItalic.ttf"
+export { default as OverlockBold } from "./Overlock-Bold.ttf"
+export { default as OverlockBoldItalic } from "./Overlock-BoldItalic.ttf"
+export { default as OverlockItalic } from "./Overlock-Italic.ttf"
+export { default as OverlockRegular } from "./Overlock-Regular.ttf"
